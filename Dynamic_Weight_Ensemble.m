@@ -66,16 +66,6 @@ while counter <= FSize
     end % end of for loop k
     
     
-    
-    
-    
-    
-    
-   
-    
-    
-    
-    
 %     %%
 %     % Code for Error based Weighted Ensemble Tech
 %     [rowofErrors,NumOfModels]=size(AllModelMSEError);
